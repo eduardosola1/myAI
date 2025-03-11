@@ -145,9 +145,9 @@ export default function Terms() {
             provisions.
           </li>
           <li className="text-gray-700">
-            <span className="font-semibold">Contact Information:</span> If you
-            have any questions or concerns regarding these Terms of Use, please
-            contact Ramsy at [insert contact information].
+            <span className="font-semibold">Contact Information:</span> For general
+            inquiries regarding these Terms of Use, please refer to the Provider’s 
+            official platform or documentation.
           </li>
         </ol>
       </div>
