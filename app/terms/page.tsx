@@ -44,22 +44,71 @@ export default function Terms() {
             provided.
           </li>
           <li className="text-gray-700">
-            <span className="font-semibold">Limitation of Liability:</span> To
-            the fullest extent permitted by applicable law, Ramsy shall not be
-            liable for any direct, indirect, incidental, consequential, special,
-            exemplary, or punitive damages arising from or related to your use
-            of or inability to use the Chatbot. This includes but is not limited
-            to loss of profits, data, business, or any other losses, even if
-            Ramsy has been advised of the possibility of such damages.
+            <span className="font-semibold">Limitation of Liability:</span> To 
+            the fullest extent permitted by applicable law, the Provider shall 
+            not be liable for any direct, indirect, incidental, consequential, 
+            special, exemplary, or punitive damages arising from or related to 
+            your use of or inability to use the Chatbot. This includes, but is 
+            not limited to, investment losses, missed financial opportunities, 
+            portfolio underperformance, loss of profits, business revenue, 
+            financial assets, or personal savings resulting from reliance on 
+            AI-generated insights. The Provider shall not be responsible for 
+            any errors, omissions, inaccuracies, or delays in financial market 
+            information or for any technical issues, service disruptions, or 
+            data loss related to chatbot operation. Even if the Provider has 
+            been advised of the possibility of such damages, no liability shall
+            be assumed. Users acknowledge that financial markets are unpredictable, 
+            and AI-generated responses may not always reflect the most current or 
+            accurate information. The Chatbot does not provide personalized 
+            investment advice, and users should always conduct independent research
+            and consult licensed financial professionals before making any financial
+            decisions.
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">
               No Legal, Financial, or Professional Advice:
             </span>{" "}
-            The Chatbot is intended for informational and general purposes only.
-            It does not constitute legal, financial, medical, or professional
-            advice. Any reliance on the information provided by the Chatbot is
-            at your own risk.
+            The Chatbot is intended solely for informational and educational 
+            purposes and does not provide financial, legal, tax, or investment advice.
+            Any investment insights, stock picks, ETF recommendations, or market trends
+            provided by the Chatbot should not be interpreted as personalized financial
+            recommendations or endorsements.
+            Users should conduct their own research or consult a licensed financial 
+            advisor before making any investment decisions. The provider is not responsible
+            for any financial losses, investment outcomes, or decisions made based on the 
+            chatbot’s responses. The Chatbot does not account for individual financial 
+            circumstances and should not be used as the sole basis for investment decisions.
+          </li>
+          <li className="text-gray-700">
+            <span className="font-semibold">No Guarantee of Accuracy or Future Investment Performance:</span> The
+            Chatbot provides investment-related information based on publicly available 
+            data, historical market trends, and AI-generated insights. However, financial
+            markets are volatile and unpredictable, and the Chatbot does not guarantee the accuracy, 
+            completeness, or timeliness of its responses. The information provided should not be relied
+            upon as real-time financial data. Past performance of any stock, ETF, or investment strategy 
+            does not guarantee future results. Market conditions, economic policies, and other external 
+            factors can change rapidly, affecting the accuracy of AI-generated financial insights. Users
+            should independently verify any investment-related information before making financial decisions.
+          </li>
+          <li className="text-gray-700">
+            <span className="font-semibold">User Conduct & Responsible Use:</span> Users agree to use
+            the Chatbot in a lawful and ethical manner. The Chatbot must not be used for fraudulent
+            financial schemes, misleading investment claims, or any illegal activities. Users may not
+            attempt to manipulate financial markets, engage in pump-and-dump schemes, or use the Chatbot
+            as a substitute for licensed financial advice. The Chatbot should not be used to collect, 
+            store, or transmit confidential, personal, or sensitive financial information. Any attempt
+            to reverse-engineer, spam, or exploit the Chatbot for malicious purposes is strictly 
+            prohibited. The Provider reserves the right to restrict or terminate access to users
+            who violate these terms.
+          </li>
+          <li className="text-gray-700">
+            <span className="font-semibold">AI Limitations & Data Handling:</span> The Chatbot operates
+            using third-party AI technology (OpenAI) and does not store or retain user conversations.
+            While the Chatbot may generate investment insights based on publicly available data, it does
+            not have real-time access to stock prices, market movements, or proprietary financial databases. 
+            AI-generated responses are based on probabilistic models and may contain errors, inconsistencies, 
+            or outdated information. Users should be aware that AI is not a substitute for professional
+            financial analysis and should verify all information before making financial decisions.
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">User Responsibility:</span> You are
